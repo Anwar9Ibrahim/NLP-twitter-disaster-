@@ -1,3 +1,7 @@
+I will build a machine learning model that predicts which tweets are about real disasters and which ones aren't. 
+To understand the solution you can read the report.pdf file.
+
+
 ---
 title: TwitterDisasterClassification
 emoji: 📈
