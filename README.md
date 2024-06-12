@@ -5,6 +5,8 @@ the gui for our application:
 
 ![image](https://github.com/Anwar9Ibrahim/NLP-twitter-disaster-detector/assets/115429214/28db25f1-e622-4c46-b4d7-f4de19144616)
 
+to try the app you can see:
+https://huggingface.co/spaces/AnwarIb/twitterDisasterClassification
 
 ---
 title: TwitterDisasterClassification
