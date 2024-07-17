@@ -1,5 +1,9 @@
-I will build a machine learning model that predicts which tweets are about real disasters and which ones aren't. 
-To understand the solution you can read the report.pdf file.
+An app has been developed to detect real-time emergencies on Twitter using a fine-tuned Transformer model. The process involved data preprocessing, model training with TensorFlow, and deployment on Huggingface. Notable achievements include the use of the "dimbat_disaster_distilbert" model for improved accuracy and the creation of an intuitive interface, all developed in Visual Studio Code.
+
+The machine learning model predicts whether tweets are related to real disasters or not.
+
+To understand the solution, please refer to the report.pdf file.
+
 
 the gui for our application:
 
